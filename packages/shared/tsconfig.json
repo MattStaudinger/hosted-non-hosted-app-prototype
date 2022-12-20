@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "outDir": "lib",
+        "module": "esnext",
+        "target": "esnext",
+        "declaration": true,
+        "moduleResolution": "node",
+        "allowSyntheticDefaultImports": true,
+        "jsx": "react"
+    },
+    "include": ["src", "index.js"],
+    "exclude": ["node_modules", "lib"]
+}
